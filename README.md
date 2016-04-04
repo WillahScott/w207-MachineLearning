@@ -14,4 +14,9 @@ Contents:
   *  Emphasis:
     * Tweaking regularization parameters and using L1 vs L2
     * Feature extraction for basic NLP in documents, using different vectorizers (CountVectorizer, TF-IDF) and preprocessing techniques.
+
+* project3: Use of dimensionality reduction, clustering and probability density estimation for predicting if a mushroom is poisonous or not.  
+  * Models used: K-Means and Gaussian Mixture Models
+  * Emphasis:  
+    * Using PCA for dimensionality reduction. Tuning of PCA for sufficient variance explained remaining with minimal information loss.  
  
