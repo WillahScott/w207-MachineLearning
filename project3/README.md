@@ -1,4 +1,3 @@
-# W207 - Project 3
 ## Classification of Poisonous/Innocuos Mushrooms with K-Means & Gaussian Mixture Models
 
 This contains the first assignment for the Machine Learning course:
